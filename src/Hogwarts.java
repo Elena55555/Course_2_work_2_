@@ -1,7 +1,7 @@
 public class Hogwarts {
-    public String name;
-    public int witchcraftOneHundredPoints;
-    public int transgressToDistanceOfOneHundredKilometers;
+    private String name;
+    private int witchcraftOneHundredPoints;
+    private int transgressToDistanceOfOneHundredKilometers;
 
     public Hogwarts (String name, int witchcraftOneHundredPoints, int transgressToDistanceOfOneHundredKilometers){
         this.name = name;
